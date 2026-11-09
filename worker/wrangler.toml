@@ -1,0 +1,8 @@
+name = "vidrush-cdn"
+main = "video-proxy.js"
+compatibility_date = "2026-10-01"
+
+# Uncomment & sesuaikan setelah deploy
+# routes = [
+#   { pattern = "vidhub.sbs/cdn/*", zone_name = "vidhub.sbs" }
+# ]
